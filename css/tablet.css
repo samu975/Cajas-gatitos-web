@@ -1,0 +1,11 @@
+@media screen and (min-width:780px) and (max-width:1024px){
+    .product{
+        margin-top: -220px;
+        width: 40vw;
+    }
+    .products{
+        max-height: initial;
+        padding: 10% 0 10% 0;
+        margin-right: 30px;
+    }
+}

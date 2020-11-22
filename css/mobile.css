@@ -1,0 +1,71 @@
+@media screen and (min-width: 320px) and (max-width:779px){
+    .products{
+        display: inherit;
+        height: auto;
+        max-height: initial;
+        padding: 5%;
+    }
+    .content{
+        margin: 0;
+    }
+    .product{
+        margin-top: auto;
+    }
+    .product .content{
+        width: 75vw;
+    }
+    .main-section{
+        padding: 4%;
+    }
+    .target-section{
+        display: inherit;
+    }
+    .targets-container{
+        max-width: initial;
+    }
+    .menciones-target-container{
+        display: inherit;
+    }
+    .menciones-target{
+        margin: 0;
+        max-width: initial;
+    }
+    .persona{
+        width: 90vw;
+        display: flex;
+        justify-content: center;
+        margin: 0 auto;
+    }
+    .text-container{
+        padding: 10px 0 0 10px;
+        width: 87.5vw;
+        margin: 0 auto;
+    }
+    .container-modulos{
+        display: inline;
+    }
+    .modulo{
+        display: block;
+        margin: 0;
+    }
+    .modulo-pago{
+        margin: auto;
+    }
+    #body-ventas{
+        overflow-y: auto;
+    }
+    .container-section-pago{
+        height: auto;   
+    }
+    #pago-formulario{
+        width: initial;
+    }
+    form{
+        width: initial;
+    }
+}
+@media screen and (min-width: 426px) and (max-width:779px){
+    .modulo-pago{
+        max-width: initial;
+    }
+}
